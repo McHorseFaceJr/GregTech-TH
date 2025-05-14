@@ -1,16 +1,44 @@
 # GregTech-RX
 
-Hello, this is a moderatly 'extreme' modpack, designed to be challenging yet fun at the same time. 
-As you've already guessed -if your familiar- this modpack is focused around GregTech, that isn't all I have to offer, this also includes magic mods, such as Botania or even farming mods like
-Pams Harvest Craft -which could be improved by GregTech of course- allowing for a relaxing farming lifestyle.
+# Welcome to the Modpack
 
-  If your interested in what multiblocks I've supplied, check out the Multiblocks page for more.
-  If you want even more information see the Wiki - keep in mid this is extremely WIP at the moment
+Hello, this is a moderately *extreme* modpack, designed to be both challenging and fun.  
+As you've probably guessed — if you're familiar — this modpack is centered around **GregTech**.
 
-There's alot of custom content and quests for you to complete, I also have lang support for the following languages
- -German
- -Russian
- -Chinese
- -More to come, make an 'issue' for another language, or if you have a problem with the translation, many things don't have a direct translation so I had to be creative.
+But that's not all it offers.
 
-Much love - McHorseFaceJR :)
+This pack also includes a variety of magic mods such as **Botania**, as well as farming mods like **Pam's HarvestCraft** — which, naturally, can be enhanced with GregTech integration — enabling you to embrace a more relaxing, self-sustained farming lifestyle if you so choose.
+
+---
+
+## Multiblocks
+
+Curious about the multiblocks included in this modpack?  
+👉 Check out the **[Multiblocks](./Multiblocks.md)** page for detailed information.
+
+---
+
+## Wiki
+
+Looking for more in-depth information?  
+Explore the **[Wiki](./Wiki.md)** — though be aware, it's a **work in progress** and subject to change frequently.
+
+---
+
+## Custom Content & Language Support
+
+There’s a wealth of **custom content** and **quests** for you to explore.  
+Localization support is currently available for the following languages:
+
+- German
+- Russian
+- Chinese
+- *(More to come!)*
+
+If you'd like support for a new language, or notice issues in existing translations, feel free to open an **issue**.  
+Please note that many phrases don’t have direct translations, so a bit of creative interpretation was required.
+
+---
+
+Much love,  
+**McHorseFaceJR** :horse:
