@@ -13,4 +13,4 @@ There's alot of custom content and quests for you to complete, I also have lang 
  -Chinese
  -More to come, make an 'issue' for another language, or if you have a problem with the translation, many things don't have a direct translation so I had to be creative.
 
-Much love - McHorseFaceJR
+Much love - McHorseFaceJR :)
