@@ -31,8 +31,8 @@ This is the main page for all of the multiblocks you will need to know about.
 -----------
 
 1. EAF - Extreme Autocrafting Factory
-2. MIPC - Minimal Intospacial Pattern Crafter
-3. MIPC II - Mega Inerspacial Pattern Crafter (II to indicate difference in tiers!)
+2. MIPC - Minimal Interspatial Pattern Crafter
+3. MIPC II - Mega Interspatial Pattern Crafter (II to indicate difference in tiers!)
 
 ------------------------
 # Item/Fluid Generation
