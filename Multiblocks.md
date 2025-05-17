@@ -33,7 +33,15 @@ This is the main page for all of the multiblocks you will need to know about.
 1. EAF - Extreme Autocrafting Factory
 2. MIPC - Minimal Interspatial Pattern Crafter
 3. MIPC II - Mega Interspatial Pattern Crafter (II to indicate difference in tiers!)
+4. DF - Draconic Forge (I -> III) - used for draconium ingots
 
 ------------------------
 # Item/Fluid Generation
 ------------------------
+
+-------------------
+# Improved Defaults
+-------------------
+1. MFD - Massive Freezing Device
+2. SCFR - Super Critical Fusion Reactor
+3. HCTF - Hyper Critical Time Forge 
