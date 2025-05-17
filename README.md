@@ -1,6 +1,8 @@
-# GregTech-RX
+<p align="center">
+    <img width="50%" max-height="50%" src="https://i.imgur.com/ru4d5ky.png">
+</p>
 
-# Welcome to the Modpack
+<h2 align="center">Welcome to the GregTech-RX!</h2>
 
 Hello, this is a moderately *extreme* modpack, designed to be both challenging and fun.  
 As you've probably guessed — if you're familiar — this modpack is centered around **GregTech**.
@@ -15,6 +17,13 @@ This pack also includes a variety of magic mods such as **Botania**, as well as 
 
 Curious about the multiblocks included in this modpack?  
 👉 Check out the **[Multiblocks](./Multiblocks.md)** page for detailed information.
+
+---
+
+## Items
+
+Curious about the items included in this modpack?  
+👉 Check out the **[Items](./Items.md)** page for detailed information.
 
 ---
 
