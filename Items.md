@@ -52,7 +52,7 @@
     ...
 
     And eventually:
-    q=7⇒Cq=128q=7⇒Cq​=128
+    q=7⇒Cq=128
 
 3. Optical Processor -> Mainframe
 4. Artron Processor -> Mianframe
