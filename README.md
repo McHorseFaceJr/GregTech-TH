@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="50%" max-height="50%" src="https://i.imgur.com/ru4d5ky.png">
+    <img width="50%" max-height="50%" src="https://i.imgur.com/IImbBeF.png">
 </p>
 
-<h2 align="center">Welcome to the GregTech-RX!</h2>
+<h2 align="center">Welcome to the GregTech-Technical Horizons!</h2>
 
 Hello, this is a moderately *extreme* modpack, designed to be both challenging and fun.  
 As you've probably guessed — if you're familiar — this modpack is centered around **GregTech**.
