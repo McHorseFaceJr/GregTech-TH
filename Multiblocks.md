@@ -46,9 +46,18 @@ This is the main page for all of the multiblocks you will need to know about.
 -------------------
 # Improved Defaults
 -------------------
+
 1. MFD - Massive Freezing Device
 2. SCFR - Super Critical Fusion Reactor
 3. HCTF - Hyper Critical Time Forge
+
+------------------
+# Sub-Multiblock (used to stabilize, regulate, etc. the main multiblock)
+------------------
+
+1. QCHar - Quantum Catalyst Harmonizer
+2. CraTeR - Chrono-Thermodynamic Recirculator
+
 
 ------------------
 # Endgame Specific
@@ -58,4 +67,5 @@ This is the main page for all of the multiblocks you will need to know about.
 3. CGR - Conceptual Geometer Relay
 4. PEoH - Prime Eye Of Harmony
 5. Metastructure - "The Space-Time Event combined with the Eye of Harmony connection forms an Extra-Dimensional Framework known as the Metastructure."
+6. CatTE - Catalytic Infinity Transcendence Engine
    
