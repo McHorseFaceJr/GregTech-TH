@@ -9,7 +9,7 @@ As you've probably guessed — if you're familiar — this modpack is centered a
 
 But that's not all it offers.
 
-This pack also includes a variety of magic mods such as **Botania**, as well as farming mods like **Pam's HarvestCraft** — which, naturally, can be enhanced with GregTech integration — enabling you to embrace a more relaxing, self-sustained farming lifestyle if you so choose.
+This pack also includes a variety of magic mods such as **Botania**, as well as farming mods like **Pam's HarvestCraft** — which, naturally, is enhanced with GregTech integration — enabling you to embrace a more relaxing farming lifestyle if you so choose.
 
 ---
 
