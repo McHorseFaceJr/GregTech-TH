@@ -11,6 +11,7 @@ But that's not all it offers.
 
 This pack also includes a variety of magic mods such as **Botania**, as well as farming mods like **Pam's HarvestCraft** — which, naturally, is enhanced with GregTech integration — enabling you to embrace a more relaxing farming lifestyle if you so choose.
 
+The questline and some aspects of the game are stage gated for beginners to that they don't get overwhelmed when looking at the quest book or JEI. If you don't like that then use the command "/kubejs exterminate_stages" this will remove the stages for you. Beware, many aspects of this modpack are meant to be gated so that the integration works properly. Doing this won't cause the end of the world, just a few extra pages of JEI items, blocks, fluids, gases, etc. will show up and could cause people to think about what they are supposed to do alot later on or just about wanting to do everything at once.
 ---
 
 ## Multiblocks
