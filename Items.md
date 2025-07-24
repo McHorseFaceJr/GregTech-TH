@@ -10,23 +10,23 @@
 
 
 
-Superdense Steel
-Superdense Damascussteel
-Superdense Blacksteel
-Superdense Bluesteel
-Superdense Tungstensteel
-Superdense Stainlesssteel
-Superdense Vanadiumsteel
-Superdense Iron
-Superdense Tungsten
-Superdense Aluminum
-Superdense Copper
-Superdense Neutronium
-Superdense Infinity
-Superdense Space Time
-Superdense Duranium
-Superdense Bedrockium
-Superdense Radiation Proof Alloy
+1. Superdense Steel
+2. Superdense Damascussteel
+3. Superdense Blacksteel
+4. Superdense Bluesteel
+5. Superdense Tungstensteel
+6. Superdense Stainlesssteel
+7. Superdense Vanadiumsteel 
+8. Superdense Iron
+9. Superdense Tungsten
+10. Superdense Aluminum
+11. Superdense Copper
+12. Superdense Neutronium
+13. Superdense Infinity
+14. Superdense Space Time
+15. Superdense Duranium
+16. Superdense Bedrockium
+17. Superdense Radiation Proof Alloy
 
 
 
@@ -36,13 +36,13 @@ Superdense Radiation Proof Alloy
 
 
 
-Nova Cast Hypercharged Alloy
-Nova Cast Darkcore
-Nova Cast Infused
-Nova Cast Nano Welded Alloy
-Nova Cast Synthesized Alloy
-Nova Cast Crystallized Alloy
-Nova Cast Transmuted
+1. Nova Cast Hypercharged Alloy
+2. Nova Cast Darkcore
+3. Nova Cast Infused
+4. Nova Cast Nano Welded Alloy
+5. Nova Cast Synthesized Alloy
+6. Nova Cast Crystallized Alloy
+7. Nova Cast Transmuted
 
 
 
@@ -52,14 +52,14 @@ Nova Cast Transmuted
 
 
 
-Extremely Compressed
-Radiation Proof
-sentient Alloy
-stellar Alloy
-bedrockium
-talladium
-vandallium
-mythril
+1. Extremely Compressed
+2. Radiation Proof
+3. Sentient Alloy
+4. Stellar Alloy
+5. Bedrockium
+6. Talladium
+7. Vandallium
+8. Mythril
 
 
 
@@ -69,22 +69,22 @@ mythril
 
 
 
-Infinity
-Space Time
-Hyper Matter
-Dimensionally Transcendent
-Interdimensional Alloy
-Rntropic Residue
-Dark Matter
-Dilithium
-Coaxium
-Antimatter Lattice
-Azbantium
-Quantum
-Quantum Entangled
-Black Dwarf Atar
-Void Crystal
-Infinity Catalyst
+1. Infinity
+2. Space Time
+3. Hyper Matter
+4. Dimensionally Transcendent
+5. Interdimensional Alloy
+6. Rntropic Residue
+7. Dark Matter
+8. Dilithium
+9. Coaxium
+10. Antimatter Lattice
+11. Azbantium
+12. Quantum
+13. Quantum Entangled
+14. Black Dwarf Atar
+15. Void Crystal
+16. Infinity Catalyst
 
 
 
@@ -94,25 +94,26 @@ Infinity Catalyst
 
 
 
-Proton
-Antiproton
-Electron
-Positron
-Neutron
-Neutrino
-Theta
-Antitheta
-Tau
-Antitau
-Muon
-Antimuon
-W Boson
-Z Boson
-Gluon
-Graviton
-Photon
-Tachyon
-Omega
+1. Proton
+2. Antiproton
+3. Electron
+4. Positron
+5. Neutron
+6. Neutrino
+7. Theta
+8. Antitheta
+9. Tau
+10. Antitau
+11. Muon
+12. Antimuon
+13. W Boson
+14. Z Boson
+15. Higgs Boson
+16. Gluon
+17. Graviton
+18. Photon
+19. Tachyon
+20. Omega
 
 
 ---
