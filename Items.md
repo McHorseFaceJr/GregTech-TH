@@ -5,19 +5,108 @@
 
 
 ---
-# Materials
+#Superdense Materials
 ---
-1. Quantum Entangled 'X'
-2. Infinity 'X'
-3. Dilithium Crystal
-4. Azbantium 'X'
-5. Coaxium Plasma
-6. Hyper Matter 'X'
-7. White Dwarf Star 'X'
-8. Black Dwarf Star 'X'
-9. Space-Time 'X'
-10. Extremely Compressed 'X'
-11. Dimensionally Transcendent 'X'
+
+
+
+Superdense Steel
+Superdense Damascussteel
+Superdense Blacksteel
+Superdense Bluesteel
+Superdense Tungstensteel
+Superdense Stainlesssteel
+Superdense Vanadiumsteel
+Superdense Iron
+Superdense Tungsten
+Superdense Aluminum
+Superdense Copper
+Superdense Neutronium
+Superdense Infinity
+Superdense Space Time
+Superdense Duranium
+Superdense Bedrockium
+Superdense Radiation Proof Alloy
+
+
+
+---
+#Nova Cast Materials
+---
+
+
+
+Nova Cast Hypercharged Alloy
+Nova Cast Darkcore
+Nova Cast Infused
+Nova Cast Nano Welded Alloy
+Nova Cast Synthesized Alloy
+Nova Cast Crystallized Alloy
+Nova Cast Transmuted
+
+
+
+---
+#Generic Materials
+---
+
+
+
+Extremely Compressed
+Radiation Proof
+sentient Alloy
+stellar Alloy
+bedrockium
+talladium
+vandallium
+mythril
+---
+#Mid->Endgame Materials
+---
+Infinity
+Space Time
+Hyper Matter
+Dimensionally Transcendent
+Interdimensional Alloy
+Rntropic Residue
+Dark Matter
+Dilithium
+Coaxium
+Antimatter Lattice
+Azbantium
+Quantum
+Quantum Entangled
+Black Dwarf Atar
+Void Crystal
+Infinity Catalyst
+
+
+
+---
+#Particle Physics
+---
+
+
+
+Proton
+Antiproton
+Electron
+Positron
+Neutron
+Neutrino
+Theta
+Antitheta
+Tau
+Antitau
+Muon
+Antimuon
+W Boson
+Z Boson
+Gluon
+Graviton
+Photon
+Tachyon
+Omega
 
 
 ---
