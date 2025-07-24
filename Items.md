@@ -5,7 +5,7 @@
 
 
 ---
-#Superdense Materials
+# Superdense Materials
 ---
 
 
@@ -31,7 +31,7 @@ Superdense Radiation Proof Alloy
 
 
 ---
-#Nova Cast Materials
+# Nova Cast Materials
 ---
 
 
@@ -47,7 +47,7 @@ Nova Cast Transmuted
 
 
 ---
-#Generic Materials
+# Generic Materials
 ---
 
 
@@ -60,9 +60,15 @@ bedrockium
 talladium
 vandallium
 mythril
+
+
+
 ---
-#Mid->Endgame Materials
+# Mid->Endgame Materials
 ---
+
+
+
 Infinity
 Space Time
 Hyper Matter
@@ -83,7 +89,7 @@ Infinity Catalyst
 
 
 ---
-#Particle Physics
+# Particle Physics
 ---
 
 
